@@ -1,0 +1,3 @@
+html { scroll-behavior: smooth; }
+body { margin: 0; min-width: 320px; background: #ede9de; font-family: 'Space Grotesk', sans-serif; }
+button, input, select, textarea { font-family: inherit; }
